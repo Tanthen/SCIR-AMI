@@ -1,4 +1,4 @@
-[![Paper](https://img.shields.io/badge/paper-ACM_Multimedia BNI Track-red)](https://dl.acm.org/doi/abs/10.1145/3746027.3758178)
+[![Paper](https://img.shields.io/badge/paper-ACM_Multimedia_BNI-red)](https://dl.acm.org/doi/abs/10.1145/3746027.3758178)
 [![Conference](https://img.shields.io/badge/ACM_Multimedia-2025-blue)](https://acmmm2025.org/)
 
 # SCIR-AMI
