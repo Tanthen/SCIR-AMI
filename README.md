@@ -12,20 +12,11 @@ The integration of multimodal information, particularly visual content, into dia
 
 If you found this paper useful, citing the paper and dataset would be greatly appreciated.
 ```
-@inproceedings{10.1145/3746027.3758178,
-author = {Yang, Hao and Zheng, Tian and Zhao, Yanyan and Qin, Bing},
-title = {Ensuring Responses Contain Appropriate Images: Timing Judgment for Multimodal Responses},
-year = {2025},
-isbn = {9798400720352},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3746027.3758178},
-doi = {10.1145/3746027.3758178},
-booktitle = {Proceedings of the 33rd ACM International Conference on Multimedia},
-pages = {12501–12508},
-numpages = {8},
-keywords = {multimodal dialog, multimodal large language model, response generation},
-location = {Dublin, Ireland},
-series = {MM '25}
+@inproceedings{yang2025ensuring,
+  title={Ensuring Responses Contain Appropriate Images: Timing Judgment for Multimodal Responses},
+  author={Yang, Hao and Zheng, Tian and Zhao, Yanyan and Qin, Bing},
+  booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
+  pages={12501--12508},
+  year={2025}
 }
 ```
